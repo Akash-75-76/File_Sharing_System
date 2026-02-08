@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+// Use relative URL when in production (same server)
+// Use full URL when in development (localhost)
+const API_URL = process.env.REACT_APP_API_URL || '';
 
 export const uploadFile=async (data)=>{
     try {
