@@ -8,12 +8,6 @@ A simple and elegant full-stack web application built with the MERN stack and de
 ![Node](https://img.shields.io/badge/Node.js-v18+-brightgreen)
 ![React](https://img.shields.io/badge/React-v19.2.4-blue)
 
-## 🌐 Live Demo
-
-**🔗 [http://34.228.79.163](http://34.228.79.163)**
-
-Try it now! Upload files and share download links instantly.
-
 ## ✨ Features
 
 - 🚀 **One-Click Upload** - Simple and intuitive file upload interface
@@ -366,7 +360,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Akash**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Live Demo: [http://34.228.79.163](http://34.228.79.163)
 
 ## 🙏 Acknowledgments
 
