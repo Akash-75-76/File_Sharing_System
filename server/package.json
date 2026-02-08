@@ -11,11 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1693.0",
     "cors": "^2.8.6",
     "dotenv": "^17.2.4",
     "express": "^5.2.1",
     "mongoos": "^0.0.1-security",
     "mongoose": "^9.1.6",
-    "multer": "^2.0.2"
+    "multer": "^2.0.2",
+    "multer-s3": "^3.0.1"
   }
 }

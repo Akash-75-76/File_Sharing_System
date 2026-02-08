@@ -1,6 +1,6 @@
 import express from 'express';
 import { uploadImage,downloadImage } from "../controller/image-controller.js";
-import upload from '../utils/upload.js';
+import upload from '../utils/s3-upload.js';  // Changed to S3 upload
 const router=express.Router();
 
 router.post('/upload',upload.single('file'),uploadImage);
